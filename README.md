@@ -1,3 +1,3 @@
 # hello-world
 I am learning a useful skill.
-Today it is wednesday.
+Today is wednesday.
